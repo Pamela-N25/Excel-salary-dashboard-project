@@ -1,6 +1,7 @@
 # Excel-salary-dashboard-project
 
-(video)
+![1_Salary_Dashboard.png](images/dashboard_video.gif)
+
 
 ## Introduction   
 
@@ -11,7 +12,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 
 ### Dashboard File  
-My final dashboard is in (excel dashboard)
+My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).   
 
 ### Excel Skills Used  
 
