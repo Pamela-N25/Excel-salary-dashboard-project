@@ -38,7 +38,7 @@ The dataset used for this project contains real world data information from 2023
 
 #### 📊 Bar Chart - Data Science Job Salaries  
 
-(bar chart job titles)  
+![1_Salary_Dashboard_Chart2.png](images/Job_title_type_graph.png) 
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -47,7 +47,7 @@ The dataset used for this project contains real world data information from 2023
 
 #### Map Chart - Country Median Salaries
 
-(country map video)
+![1_Salary_Dashboard_Chart2.png](images/country_map_video2.gif)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -77,12 +77,11 @@ IF(
 - **🔢 Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.  
 
 🍽️ Background Table  
-(background table)
+![1_Salary_Dashboard_Screenshot1.png](images/Background_Table.png)
 
 
 📉 Dashboard Implementation  
-(job title bar graph)  
-
+![1_Salary_Dashboard_Screenshot1.png](images/job_title_type.png)
 #### ⏰ Count of Job Schedule Type
 
 ```
@@ -94,12 +93,11 @@ IF(
 
 🍽️ Background Table
 
-(Background Table2)
+![1_Salary_Dashboard_Screenshot1.png](images/Background_Table2.png)
 
 📉 Dashboard Implementation:
 
-(job schedule type)
-
+![1_Salary_Dashboard_Screenshot1.png](images/job_salary_type.png)
 
 ### ❎ Data Validation
 
@@ -110,7 +108,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-(image)
+<img src="images/job_title_video.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
